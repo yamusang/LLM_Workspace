@@ -13,3 +13,5 @@ pip list | findstr dotenv
 pip install langchain langchain-community
 
 pip install langchain_openai
+
+pip install langchain-pinecone
